@@ -1,6 +1,6 @@
 # ZENTRY - Portail Agent
 
-Application Flutter pour la gestion de projets et points d'entrée avec routing et gestion d'état Riverpod.
+Zentry est une application Geospatial pour les agents de terrain pour recolté  les informations et généré le rapport,  pour la gestion de projets et points d'entrée avec routing et gestion d'état Riverpod.
 
 ## ✨ Fonctionnalités
 
