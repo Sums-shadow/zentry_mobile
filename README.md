@@ -8,7 +8,7 @@ Zentry est une application Geospatial pour les agents de terrain pour recolté  
 - **SplashScreen** - Écran de chargement de l'application
 - **LoginPage** - Page de connexion avec validation de formulaire
 - **ForgotPasswordPage** - Page de récupération de mot de passe
-- **DashboardPage** - Tableau de bord principal avec statistiques
+- **DashboardPage**  - Tableau de bord principal avec statistiques
 - **ProjetListPage** - Liste des projets avec recherche et filtres
 - **NewProjetFormPage** - Formulaire de création de projet
 - **ProjetDetailPage** - Détails d'un projet avec gestion des points d'entrée
